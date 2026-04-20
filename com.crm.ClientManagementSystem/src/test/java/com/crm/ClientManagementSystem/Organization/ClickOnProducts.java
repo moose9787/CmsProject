@@ -1,5 +1,14 @@
 package com.crm.ClientManagementSystem.Organization;
 
-public class ClickOnProducts {
+import org.testng.annotations.Test;
+
+import com.crm.ClientManagementSystem.GenericLibrary.Baseclass;
+
+public class ClickOnProducts extends Baseclass{
+	
+	@Test
+	public void products() {
+		
+	}
 
 }
