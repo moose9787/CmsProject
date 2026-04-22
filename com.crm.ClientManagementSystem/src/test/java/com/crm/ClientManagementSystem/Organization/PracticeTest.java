@@ -9,7 +9,7 @@ import org.testng.annotations.Test;
 import com.crm.ClientManagementSystem.GenericLibrary.Baseclass;
 import com.crm.ClientManagementSystem.GenericLibrary.FileUtils;
 
-public class Practice  {
+public class PracticeTest  {
 @Test
 public void practice() throws EncryptedDocumentException, IOException {
 	
